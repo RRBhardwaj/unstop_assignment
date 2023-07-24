@@ -1,0 +1,53 @@
+
+.dotted-hr {
+    border: none; 
+    border-top: 1px dotted gray; 
+    margin: 20px 20px; 
+  }
+
+.adminName{
+  border: 1px solid red;
+  color: red;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: auto;
+    padding: 10px;
+}
+
+.highlighted{
+    border: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(63, 134, 242);
+    transition: border-width 0.6s linear;
+    color: rgb(63, 134, 242);
+}
+
+.half-border {
+    position: relative;
+    padding: 20px;
+    border-bottom: 2px solid blue; 
+}
+
+.half-border::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50%; 
+    border-bottom: 2px solid blue;
+}
+
+@media screen and (min-width: 840px) {
+    .hide-on-desktop {
+      display: none;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .hide-on-mobile {
+      display: none;
+    }
+}
+

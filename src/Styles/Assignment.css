@@ -1,0 +1,19 @@
+.dotted-hr {
+    border: none;
+    border-top: 1px dotted gray; 
+    margin: 10px 0; 
+}
+
+
+
+@media screen and (min-width: 840px) {
+    .hide-on-desktop {
+      display: none;
+    }
+}
+
+@media screen and (max-width: 839px) {
+    .hide-on-mobile {
+      display: none;
+    }
+}
