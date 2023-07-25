@@ -23,10 +23,8 @@ npm start
 ## Usage
 Provide instructions and examples on how to use your project.
 
-```bash
-<img src = "[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://drive.google.com/file/d/1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4/view?usp=sharing)" align="center" alt="html5">
+<img src = "https://drive.google.com/file/d/1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4/view?usp=sharing" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-```
 
 
 
