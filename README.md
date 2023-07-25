@@ -9,8 +9,12 @@ The Data Insights Dashboard is a powerful tool that offers a user-friendly and v
 
 ## Video Walkthrough of the project
 
+
+
 ## Design decisions or assumptions
 List your design decisions & assumptions
+
+
 
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running.
@@ -41,7 +45,7 @@ the technologies used in the project.
 - React Icons
 - Chakra UI
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
