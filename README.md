@@ -22,10 +22,10 @@ npm start
 
 ## Usage
 Provide instructions and examples on how to use your project.
-![Dashboard]
+###[Dashboard]
 <img src="https://drive.google.com/uc?export=view&id=1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4" alt="Image">
 
-![Mobile Screen]
+###[Mobile Screen]
 <img src="https://drive.google.com/uc?export=view&id=1Ex1qX3pxTu6jvDCpmYc0-mQ0c7rrU7tU" alt="Image">
 
 
