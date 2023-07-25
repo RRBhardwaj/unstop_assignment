@@ -8,12 +8,7 @@ The Data Insights Dashboard is a powerful tool that offers a user-friendly and v
 https://student-assessments.vercel.app
 
 ## Video Walkthrough of the project
-
-
-
-## Design decisions or assumptions
-List your design decisions & assumptions
-
+https://drive.google.com/file/d/1Z0pWyOFHrchqSBMN-fxnuQjeUgghe-zz/view?usp=sharing
 
 
 ## Installation & Getting started
