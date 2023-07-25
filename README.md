@@ -5,7 +5,7 @@ Student Assessment
 The Data Insights Dashboard is a powerful tool that offers a user-friendly and visually engaging platform to explore various datasets. Integrated with multiple data sources, users can analyze key performance indicators, compare data sets, and observe trends over time, enabling data-driven decision-making and the ability to share valuable insights effortlessly. Overall, it empowers organizations to harness the full potential of their data and make informed decisions efficiently.
 
 ## Deployed App
-[https://deployed-site.whatever](https://student-assessments.vercel.app)
+https://student-assessments.vercel.app
 
 ## Video Walkthrough of the project
 
