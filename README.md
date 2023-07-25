@@ -23,7 +23,7 @@ npm start
 ## Usage
 Provide instructions and examples on how to use your project.
 
-[https://drive.google.com/file/d/1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4/view](https://drive.google.com/file/d/1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4/view)
+<img src="https://drive.google.com/uc?export=view&id=1BphOqWOom_lo-rdiJlMTn5Q0AJX_tUH4" alt="Image">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 
 
