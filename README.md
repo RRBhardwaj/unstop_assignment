@@ -39,8 +39,4 @@ the technologies used in the project.
 - React Icons
 - Chakra UI
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Thank You**
